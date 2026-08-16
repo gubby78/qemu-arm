@@ -35,7 +35,7 @@ spec:
         - name: BOOT
           value: "ubuntu"
         - name: DISK_SIZE
-          value: "64G"
+          value: "560G"
         ports:
           - containerPort: 8006
             name: http
